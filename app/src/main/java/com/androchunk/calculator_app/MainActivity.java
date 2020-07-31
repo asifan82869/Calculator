@@ -73,12 +73,6 @@ public class MainActivity extends Activity {
             switch (current_oprator) {
 
                 case ""://if current oprator is null
-                    if (power_present) {
-                        temp = Result + Math.pow(numberTwo, numberOne);
-                    } else {
-                        temp = Result + numberOne;
-                    }
-                    break;
 
                 case "+":
                     if (power_present) {
@@ -163,6 +157,7 @@ public class MainActivity extends Activity {
     public void onClickClear(View v) {
         cleardata();
     }
+
 
     public void cleardata() {
         sCalculation = "";

@@ -7,4 +7,6 @@
 
     <style name="fullscreen" parent="android:Theme.Material.Light.NoActionBar.Fullscreen"/>
 
+
+
 </resources>

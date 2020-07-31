@@ -5,9 +5,11 @@
     <color name="colorAccent">#FF4081</color>
 
     <color name="white">#ffffff</color>
-    <color name="horizontal_btn_color">#404b69</color>
-    <color name="number_color">#feac06</color>
-    <color name="function_color">#ff7006</color>
-    <color name="equal_color">#01c854</color>
+    <color name="horizontal_btn_color">#F43240</color>
+    <color name="number_color">#000</color>
+    <color name="function_color">#CCB703</color>
+    <color name="equal_color">#2196F3</color>
+
+
 
 </resources>
